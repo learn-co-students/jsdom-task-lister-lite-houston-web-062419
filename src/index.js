@@ -11,6 +11,8 @@ document.addEventListener("DOMContentLoaded", () => {
     ul.append(newTask)
 
     event.target.reset()
+
+    
   });
 
 });
